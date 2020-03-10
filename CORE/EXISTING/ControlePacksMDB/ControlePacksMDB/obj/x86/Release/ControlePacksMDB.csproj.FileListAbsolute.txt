@@ -1,0 +1,10 @@
+D:\DEV PN CS\ControlePacksMDB\ControlePacksMDB\bin\Release\ControlePacksMDB.exe
+D:\DEV PN CS\ControlePacksMDB\ControlePacksMDB\bin\Release\ControlePacksMDB.pdb
+D:\DEV PN CS\ControlePacksMDB\ControlePacksMDB\obj\x86\Release\ControlePacksMDB.FormePrincipale.resources
+D:\DEV PN CS\ControlePacksMDB\ControlePacksMDB\obj\x86\Release\ControlePacksMDB.Properties.Resources.resources
+D:\DEV PN CS\ControlePacksMDB\ControlePacksMDB\obj\x86\Release\ControlePacksMDB.csproj.GenerateResource.Cache
+D:\DEV PN CS\ControlePacksMDB\ControlePacksMDB\obj\x86\Release\ControlePacksMDB.exe
+D:\DEV PN CS\ControlePacksMDB\ControlePacksMDB\obj\x86\Release\ControlePacksMDB.pdb
+D:\DEV PN CS\ControlePacksMDB\ControlePacksMDB\bin\Release\ControlePacksMDB.exe.config
+D:\DEV PN CS\ControlePacksMDB\ControlePacksMDB\obj\x86\Release\ControlePacksMDB.csprojResolveAssemblyReference.cache
+D:\DEV PN CS\ControlePacksMDB\ControlePacksMDB\obj\x86\Release\ControlePacksMDB.fSaisieIdentifiants.resources
