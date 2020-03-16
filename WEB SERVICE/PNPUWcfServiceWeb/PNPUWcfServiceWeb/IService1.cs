@@ -19,7 +19,7 @@ namespace PNPUWcfServiceWeb
         [OperationContract]
         CompositeType GetDataUsingDataContract(CompositeType composite);
 
-        // TODO: ajoutez vos opérations de service ici
+        // TODO test : ajoutez vos opérations de service ici
     }
 
 
