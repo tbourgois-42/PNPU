@@ -1,0 +1,11 @@
+C:\Users\tbou\source\repos\WcfService2\PNPUCore\obj\Debug\netcoreapp3.1\PNPUCore.csprojAssemblyReference.cache
+C:\Users\tbou\source\repos\WcfService2\PNPUCore\obj\Debug\netcoreapp3.1\PNPUCore.AssemblyInfoInputs.cache
+C:\Users\tbou\source\repos\WcfService2\PNPUCore\obj\Debug\netcoreapp3.1\PNPUCore.AssemblyInfo.cs
+C:\Users\tbou\source\repos\WcfService2\PNPUCore\bin\Debug\netcoreapp3.1\PNPUCore.exe
+C:\Users\tbou\source\repos\WcfService2\PNPUCore\bin\Debug\netcoreapp3.1\PNPUCore.deps.json
+C:\Users\tbou\source\repos\WcfService2\PNPUCore\bin\Debug\netcoreapp3.1\PNPUCore.runtimeconfig.json
+C:\Users\tbou\source\repos\WcfService2\PNPUCore\bin\Debug\netcoreapp3.1\PNPUCore.runtimeconfig.dev.json
+C:\Users\tbou\source\repos\WcfService2\PNPUCore\bin\Debug\netcoreapp3.1\PNPUCore.dll
+C:\Users\tbou\source\repos\WcfService2\PNPUCore\bin\Debug\netcoreapp3.1\PNPUCore.pdb
+C:\Users\tbou\source\repos\WcfService2\PNPUCore\obj\Debug\netcoreapp3.1\PNPUCore.dll
+C:\Users\tbou\source\repos\WcfService2\PNPUCore\obj\Debug\netcoreapp3.1\PNPUCore.pdb
