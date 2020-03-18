@@ -1,0 +1,4 @@
+C:\PNPU\PNPU\CORE\WcfService1\PNPUCore\bin\Debug\PNPUCore.dll
+C:\PNPU\PNPU\CORE\WcfService1\PNPUCore\bin\Debug\PNPUCore.pdb
+C:\PNPU\PNPU\CORE\WcfService1\PNPUCore\obj\Debug\PNPUCore.dll
+C:\PNPU\PNPU\CORE\WcfService1\PNPUCore\obj\Debug\PNPUCore.pdb

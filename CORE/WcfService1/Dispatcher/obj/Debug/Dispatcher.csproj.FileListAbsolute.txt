@@ -5,9 +5,12 @@ D:\PNPU\MHUM\WcfService1\Dispatcher\obj\Debug\Dispatcher.csprojAssemblyReference
 D:\PNPU\MHUM\WcfService1\Dispatcher\obj\Debug\Dispatcher.exe
 D:\PNPU\MHUM\WcfService1\Dispatcher\obj\Debug\Dispatcher.pdb
 D:\PNPU\MHUM\WcfService1\Dispatcher\obj\Debug\Dispatcher.csproj.CoreCompileInputs.cache
+C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\obj\Debug\Dispatcher.csprojAssemblyReference.cache
 C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\Dispatcher.exe.config
 C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\Dispatcher.exe
 C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\Dispatcher.pdb
-C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\obj\Debug\Dispatcher.csprojAssemblyReference.cache
+C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\PNPUCore.dll
+C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\PNPUCore.pdb
+C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\obj\Debug\Dispatcher.csproj.CopyComplete
 C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\obj\Debug\Dispatcher.exe
 C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\obj\Debug\Dispatcher.pdb

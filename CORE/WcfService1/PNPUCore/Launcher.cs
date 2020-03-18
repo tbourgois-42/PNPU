@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace PNPUCore
 {
-    class Launcher
+    public class Launcher
     {
         List<InfoClient> listClient;
 
@@ -18,7 +18,7 @@ namespace PNPUCore
         }
 
 
-        void Launch(String clientName, String processName)
+        public void Launch(String clientName, String processName)
         {
             IProcess process = createProcess(processName, clientName);
 
@@ -31,10 +31,5 @@ namespace PNPUCore
             return ProcessMock.createProcess();
         }
 
-        static void Main(string[] args)
-        {
-            Launcher test = new Launcher();
-            test.Launch("toto", "Unnomdeprocess");
-        }
     }
 }

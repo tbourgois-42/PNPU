@@ -12,7 +12,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "Windows
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispatcher", "Dispatcher\Dispatcher.csproj", "{DCF33920-A770-45F5-9D5C-1F73D61AB8E2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PNPUCore", "PNPUCore\PNPUCore.csproj", "{BEA2D25F-6A76-498A-8B43-06502B2E7DF8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PNPUCore", "PNPUCore\PNPUCore.csproj", "{D75D6EA6-79D7-4B08-9968-482AE762DFC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -32,10 +32,10 @@ Global
 		{DCF33920-A770-45F5-9D5C-1F73D61AB8E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCF33920-A770-45F5-9D5C-1F73D61AB8E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCF33920-A770-45F5-9D5C-1F73D61AB8E2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BEA2D25F-6A76-498A-8B43-06502B2E7DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BEA2D25F-6A76-498A-8B43-06502B2E7DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BEA2D25F-6A76-498A-8B43-06502B2E7DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BEA2D25F-6A76-498A-8B43-06502B2E7DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D75D6EA6-79D7-4B08-9968-482AE762DFC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D75D6EA6-79D7-4B08-9968-482AE762DFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D75D6EA6-79D7-4B08-9968-482AE762DFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D75D6EA6-79D7-4B08-9968-482AE762DFC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -5,3 +5,8 @@ D:\PNPU\MHUM\WcfService1\WcfService1\obj\Debug\WcfService1.csprojAssemblyReferen
 D:\PNPU\MHUM\WcfService1\WcfService1\obj\Debug\WcfService1.dll
 D:\PNPU\MHUM\WcfService1\WcfService1\obj\Debug\WcfService1.pdb
 D:\PNPU\MHUM\WcfService1\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\PNPU\PNPU\CORE\WcfService1\WcfService1\bin\WcfService1.dll.config
+C:\PNPU\PNPU\CORE\WcfService1\WcfService1\bin\WcfService1.dll
+C:\PNPU\PNPU\CORE\WcfService1\WcfService1\bin\WcfService1.pdb
+C:\PNPU\PNPU\CORE\WcfService1\WcfService1\obj\Debug\WcfService1.dll
+C:\PNPU\PNPU\CORE\WcfService1\WcfService1\obj\Debug\WcfService1.pdb

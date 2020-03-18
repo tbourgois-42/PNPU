@@ -11,9 +11,5 @@ namespace PNPUCore.Process
 
         String formatReport();
 
-        static IProcess createProcess()
-        {
-            return null;
-        }
     }
 }

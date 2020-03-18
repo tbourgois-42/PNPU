@@ -8,3 +8,11 @@ D:\PNPU\MHUM\WcfService1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.Gene
 D:\PNPU\MHUM\WcfService1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\PNPU\MHUM\WcfService1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 D:\PNPU\MHUM\WcfService1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\PNPU\PNPU\CORE\WcfService1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\PNPU\PNPU\CORE\WcfService1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\PNPU\PNPU\CORE\WcfService1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\PNPU\PNPU\CORE\WcfService1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\PNPU\PNPU\CORE\WcfService1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\PNPU\PNPU\CORE\WcfService1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\PNPU\PNPU\CORE\WcfService1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\PNPU\PNPU\CORE\WcfService1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

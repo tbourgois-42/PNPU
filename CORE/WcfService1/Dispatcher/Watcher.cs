@@ -6,6 +6,7 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.IO;
 using System.IO.Pipes;
+using PNPUCore;
 
 namespace PNUDispatcher
 {
@@ -56,12 +57,21 @@ namespace PNUDispatcher
 
                 if (IsValideJSON(sMessage) == false)
                     sMessageResultat = "KO";
-                else
+                else {
                     sMessageResultat = "OK";
+                    Thread thread = new Thread(new ThreadStart(LaunchProcessFunction));
+                    thread.Start();
+                }
 
                 ssStreamString.WriteString(sMessageResultat);
             }
             
+        }
+
+        private static void LaunchProcessFunction()
+        {
+            var launcher = new Launcher();
+            launcher.Launch("toto", "Unnomdeprocess");
         }
 
         /// <summary>  
