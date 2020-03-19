@@ -14,3 +14,16 @@ C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\PNPUCore.pdb
 C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\obj\Debug\Dispatcher.csproj.CopyComplete
 C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\obj\Debug\Dispatcher.exe
 C:\PNPU\PNPU\CORE\WcfService1\Dispatcher\obj\Debug\Dispatcher.pdb
+D:\PNPU\GIT\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\Dispatcher.exe.config
+D:\PNPU\GIT\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\Dispatcher.exe
+D:\PNPU\GIT\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\Dispatcher.pdb
+D:\PNPU\GIT\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\PNPUCore.dll
+D:\PNPU\GIT\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\PNPUTools.exe
+D:\PNPU\GIT\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\PNPUCore.pdb
+D:\PNPU\GIT\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\PNPUTools.pdb
+D:\PNPU\GIT\PNPU\CORE\WcfService1\Dispatcher\bin\Debug\PNPUTools.exe.config
+D:\PNPU\GIT\PNPU\CORE\WcfService1\Dispatcher\obj\Debug\Dispatcher.csprojAssemblyReference.cache
+D:\PNPU\GIT\PNPU\CORE\WcfService1\Dispatcher\obj\Debug\Dispatcher.csproj.CoreCompileInputs.cache
+D:\PNPU\GIT\PNPU\CORE\WcfService1\Dispatcher\obj\Debug\Dispatcher.csproj.CopyComplete
+D:\PNPU\GIT\PNPU\CORE\WcfService1\Dispatcher\obj\Debug\Dispatcher.exe
+D:\PNPU\GIT\PNPU\CORE\WcfService1\Dispatcher\obj\Debug\Dispatcher.pdb
