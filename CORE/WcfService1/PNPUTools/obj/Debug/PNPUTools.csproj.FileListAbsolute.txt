@@ -16,3 +16,4 @@ D:\PNPU\GIT\PNPU\CORE\WcfService1\PNPUTools\bin\Debug\PNPUTools.pdb
 D:\PNPU\GIT\PNPU\CORE\WcfService1\PNPUTools\obj\Debug\PNPUTools.csproj.CoreCompileInputs.cache
 D:\PNPU\GIT\PNPU\CORE\WcfService1\PNPUTools\obj\Debug\PNPUTools.exe
 D:\PNPU\GIT\PNPU\CORE\WcfService1\PNPUTools\obj\Debug\PNPUTools.pdb
+D:\PNPU\GIT\PNPU\CORE\WcfService1\PNPUTools\obj\Debug\PNPUTools.csprojAssemblyReference.cache

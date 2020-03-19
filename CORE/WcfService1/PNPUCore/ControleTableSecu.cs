@@ -1,17 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 using PNPUTools.DataManager;
 using System.Data;
 
-
 namespace PNPUCore.Controle
 {
-    class ControleTacheSecu : IControle
+    class ControleTableSecu : IControle
     {
         private string sPathMdb = string.Empty;
 
-        public ControleTacheSecu(string sPPathMdb)
+        public ControleTableSecu(string sPPathMdb)
         {
             sPathMdb = sPPathMdb;
         }
@@ -25,15 +26,15 @@ namespace PNPUCore.Controle
             try
             {
                 dmaManagerAccess = new DataManagerAccess(sPathMdb);
-                DataSet dsDataSet = dmaManagerAccess.GetData("select ID_BP FROM M4RBP_DEF  WHERE SECURITY_TYPE <> 2"); 
-                
+                DataSet dsDataSet = dmaManagerAccess.GetData("select ID_OBJECT FROM M4RDC_LOGIC_OBJECT WHERE HAVE_SECURITY <> 1");
+
                 if (dsDataSet.Tables[0].Rows.Count > 0)
                 {
                     bResultat = false;
                     foreach (DataRow drRow in dsDataSet.Tables[0].Rows)
                     {
-                        // TODO Loguer les taches non sécurisées
-                        sTest = drRow[0].ToString() ;
+                        // TODO Loguer les tables non sécurisées
+                        sTest = drRow[0].ToString();
                     }
                 }
             }
@@ -44,9 +45,7 @@ namespace PNPUCore.Controle
             }
 
             return bResultat;
-            
+
         }
     }
 }
-
-

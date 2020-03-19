@@ -42,7 +42,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="ControleIDSynonym.cs" />
     <Compile Include="ControleMock.cs" />
+    <Compile Include="ControleTableSecu.cs" />
     <Compile Include="ControleTacheSecu.cs" />
     <Compile Include="IControle.cs" />
     <Compile Include="InfoClient.cs" />
