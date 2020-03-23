@@ -7,3 +7,17 @@
 /CORE/WcfService1/PNPUCORE/Database1.mdf
 /CORE/WcfService1/PNPUCORE/Database1_log.mdf
 
+
+CORE/WcfService1/.vs/WcfService1/v16/
+
+*.cache
+
+CORE/WcfService1/WcfService1/bin/WcfService1.dll
+
+CORE/WcfService1/WcfService1/bin/WcfService1.pdb
+
+CORE/WcfService1/WcfService1/obj/Debug/WcfService1.csproj.FileListAbsolute.txt
+
+CORE/WcfService1/WcfService1/obj/Debug/WcfService1.dll
+
+CORE/WcfService1/WcfService1/obj/Debug/WcfService1.pdb
