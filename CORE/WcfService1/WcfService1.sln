@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dispatcher", "Dispatcher\Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PNPUCore", "PNPUCore\PNPUCore.csproj", "{D75D6EA6-79D7-4B08-9968-482AE762DFC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEST", "TEST\TEST.csproj", "{899F52E0-D649-40CE-AC38-C9E6EF3F80F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,10 @@ Global
 		{D75D6EA6-79D7-4B08-9968-482AE762DFC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D75D6EA6-79D7-4B08-9968-482AE762DFC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D75D6EA6-79D7-4B08-9968-482AE762DFC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{899F52E0-D649-40CE-AC38-C9E6EF3F80F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{899F52E0-D649-40CE-AC38-C9E6EF3F80F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{899F52E0-D649-40CE-AC38-C9E6EF3F80F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{899F52E0-D649-40CE-AC38-C9E6EF3F80F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

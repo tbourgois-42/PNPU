@@ -13,13 +13,22 @@ namespace WcfService1
     public interface IService1
     {
         [OperationContract]
+        [WebInvoke(Method = "GET",
+            ResponseFormat = WebMessageFormat.Json,
+            BodyStyle = WebMessageBodyStyle.Wrapped,
+            UriTemplate = "Launch/{ProcFile}")]
         string LaunchProcess(string ProcFile);
+
+
+        [OperationContract]
+        [WebInvoke(Method = "GET",
+            ResponseFormat = WebMessageFormat.Json,
+            BodyStyle = WebMessageBodyStyle.Wrapped,
+            UriTemplate = "Alacon/{test}")]
+        string Alacon(string test);
 
         [OperationContract]
         string GetData(string value);
-
-        [OperationContract]
-        CompositeType GetDataUsingDataContract(CompositeType composite);
 
         // TODO: ajoutez vos opérations de service ici
     }
